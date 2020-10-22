@@ -1,0 +1,3 @@
+/Users/vivek/Downloads/cpp/SDL2Tut/Tut3/build/CMakeFiles/rebuild_cache.dir
+/Users/vivek/Downloads/cpp/SDL2Tut/Tut3/build/CMakeFiles/edit_cache.dir
+/Users/vivek/Downloads/cpp/SDL2Tut/Tut3/build/CMakeFiles/Tut3.dir
